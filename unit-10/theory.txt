@@ -1,0 +1,22 @@
+was/were
+
+am/is(present) -> was(past)
+are(present) -> were(past)
+
+
+        positive    negative        question
+i
+he      was         was not         was i?
+she                 (wasn't)
+it
+
+we
+you     were        were not        was we?
+they                (weren't)
+
+
+Yes,    i/he/she/it was
+        we/you/they were
+
+No,     i/she/he/it wasn't
+        we/you/they weren't
