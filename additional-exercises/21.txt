@@ -1,0 +1,20 @@
+1.  Have you been to France?
+    Yes, many times
+    When did you go the last time?
+    Two years ago
+2.  Is this your car?
+    Yes, it Is
+    How long have you had it?
+    It's new. I bought it yesterday
+3.  Where do you live?
+    In Harold Street
+    How long have you been living there?
+    Five years. Before that we lived in Mill Road
+    How long did you live in Mill Road?
+    About three years
+4.  What do you do?
+    I work in shop
+    How long have you been working there?
+    Nearly two years
+    What did you do before that?
+    I was a taxi driver
