@@ -1,0 +1,42 @@
+39.1
+1) It's raining
+2) It's cold
+3) It's windy
+4) It's sunny
+5) It's snowing
+6) It's cloudly
+
+39.2
+1) What time is it?
+2) We have to go now. It's very late
+3) Is it true that Ben can fly a helicopter?
+4) What day is it today? Tuesday? No, it is Wednesday
+5) It is ten kilometres from the airport to the city center
+6) Is it ok to call you at your office?
+7) Dou you want to walk to the hotel? I don't know. How far is it?
+8) It is Lisa's birthday today. She's 27
+9) I don't believe it! It's impossible
+
+39.3
+1) How far is it from here to the station?
+2) How far is it from the hotel to the beach?
+3) How far is it from NY to Washington?
+4) How fat is it from your house to the airport?
+
+39.4
+1) The weather isn't so nice today. It's cloudly
+2) There was a strong wind yesterday
+3) It's hot in this room. Open the window.
+4) It was a nice day yesterday. It was warm and sunny
+5) There was a storm last night. Did you hear it?
+6) I was afraid because it was very dark
+7) It's often cold here, but there isn't much rain
+8) It's a long way from here to the nearest shop
+
+39.5
+1) If you go to bed late, it's diffucult to get up early in the morning
+2) Hello jane. It's nice to see you again. How are you?
+3) It's impossible to work here. There is too much noise
+4) Everybody is very nice at work. It's easy to make friends
+5) I like travelling. It's interesting to visit different places
+6) Some cities are not safe. It's dangerous to go out along

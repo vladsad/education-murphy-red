@@ -1,0 +1,11 @@
+There is.. There are..
+
+singular:
+    there is..      there's
+    is there..
+    there is not    there isn't / there's not
+
+plural:
+    there are..
+    are there..
+    there are not   there aren't
