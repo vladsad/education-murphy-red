@@ -1,0 +1,27 @@
+34.1
+1) Would you like a chocolate?
+2) Would you like an apple?
+3) Would you like some coffee?
+4) Would you like some cheese?
+5) Would you like sandwiches?
+6) Would you like a piece of cake?
+
+34.2
+1) Would you like to go to the cinema tonight?
+2) Would you like to play tennis tommorow?
+3) Would you like to come to a concert next week?
+4) Would you like to borrow my umbrella?
+
+34.3
+1) Would you like a chocolate? Yes, please
+2) Do you like bananas? Yes, i love them
+3) Would you like an ice-cream? No, thank you
+4) What would you like to drink? A glass of water, please
+5) Would you like to go out for a walk? Not now. Perhaps later
+6) I like tomatoes, but i don't eat them very often
+7) What time would you like to have dinner this evening?
+8) Would you like something to eat? No, thanks. I'm not hungry
+9) Do you like your new job? Yes, i'm enjoying it
+10) I'm tired. I would like to go to sleep
+11) I'd like a sandwich, please. Sure. What kind of sandwich?
+12) What kind of music do you like? All kinds

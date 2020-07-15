@@ -1,0 +1,27 @@
+35.1
+1) Come in!
+2) Don't drink the water!
+3) It's too expensive. Don't buy it
+4) OK, are you ready? Smile!
+5) Don't sit on the cat
+6) Bye! Have a nice time
+7) Don't forget to phone me. Don't worry. I won't
+8) I'm going to bed now. OK. Sleep well.
+9) Be careful with what vase. Don't drop it!
+
+35.2
+1) Would you like to play tennis? No, let's go far a swim
+2) Do you want to walk home? No, let's take a taxi
+3) Shall i put a CD on? No, let's watch TV
+4) Shall we eat at home? No, let's go to a restaurant
+5) Would you like to go now? No, let's wait a little
+
+35.3
+1) Shall i wait for you? No, don't wait for me
+2) Shall we go home now? No, let's not go home yet
+3) Shall we go out? No, let's not go home now
+4) Do you want me to close the window? No, don't close the window yet
+5) Shall i phone you tonight? No, don't phone me tonight
+6) Do you think we should wait for Andy? No, let's not wait for Andy
+7) Dou you want me to turn on the light? No, don't turn on the light
+8) Shall we go by bus? No, let's not go by bus
