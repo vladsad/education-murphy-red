@@ -1,0 +1,35 @@
+42.1
+1) I'm happy too
+2) I'm not hungry either
+3) I'm going you too
+4) It rained on Sunday too
+5) She can't ride a bike either
+6) I don't like shopping either
+7) He father is a teacher too
+
+42.2
+1) I went to bed late last night. So did i
+2) I'm thirsty. So am i
+3) I've just eaten. So have i
+4) I need a holiday. So do i
+5) I'll be late tomorrow. So will i
+6) I was very tired this morning. So was i
+7) I can't go to the party. Neither can i
+8) I didn't phone Alex last night. Neither did i
+9) I haven't got any money. Neither have i
+10) I'm not going out tomorrow. Neither am i
+11) I don't know what to do. Neither do i
+
+42.3
+1) So am i
+2) So can i
+3) Neither am i
+4) I don't
+5) Neither do i
+6) So did i
+7) I have
+8) I do
+9) So am i
+10) Neither have i
+11) Neither did i
+12) I don't
