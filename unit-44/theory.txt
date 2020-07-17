@@ -1,0 +1,24 @@
+is it .. ? have you..? do they..? etc (questions 1)
+
+positive
+    you are
+question
+    are you
+
+In questions, the first verb (is/are/have etc.) is before the subject:
+    positive
+        subject + verb
+    question
+        verb + subject  (Remember: the subject is after the first verb)
+
+do ..? does ..? did ..?
+
+present simple questions
+    do      i/we/you/they      work
+    does    he she it          live
+past simple questionss
+    did     i/they/he/she/etc  go
+
+Sometimes do is the main verb (do you do / did he do etc.)
+
+Why isn’t ... ? / Why don’t ... ? etc. (Why + negative)
