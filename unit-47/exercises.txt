@@ -1,0 +1,43 @@
+47.1
+1) What make is it?
+2) What kind of job do you want?
+3) What colour is it?
+4) What time did you get up?
+5) What type of music do you like?
+6) What kind of car do you want to buy?
+
+47.2
+1) Which way shall we go?
+2) Which coat is yours?
+3) Which film do you want to see?
+4) Which bus goes to the center?
+
+47.3
+1) What is that man's name?
+2) Which way shall we go? Left or right?
+3) You can have tea or coffe. Which kind of do you prefer?
+4) What day is it today? Friday?
+5) This is nice office. Which desk is yours?
+6) What is your favorite sport?
+7) Which is more expensive, meat or fish?
+8) Who is older, Liz or Steve?
+9) What kind of camera have you got?
+10) I have three cameras
+    Which camera do you use most?
+11) What nationality are you?
+
+47.4
+1) How high is Mount Everest?
+2) How far is it to the station?
+3) How old is Helen?
+4) How often do the buses run?
+5) How deep is water in the pool?
+6) How long have you lived here?
+
+47.5
+1) How tall are you?
+2) How heavy is this box?
+3) How old are you?
+4) How much did you spend?
+5) How often do you watch tv?
+6) How far is it from Paris to Moscow?

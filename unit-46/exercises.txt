@@ -1,0 +1,33 @@
+46.1
+1) Who is the letter from?
+2) What are you looking for?
+3) Who did you go to the cinema with?
+4) What was the film about?
+5) Who did you give the money to?
+6) Who was the book written by?
+
+46.2
+1) Who is she talking to?
+2) What are they looking for?
+3) Which restaurant is he going to?
+4) What are they talking about?
+5) What is she listening for?
+6) Which bus are they waitinig for?
+
+46.3
+1) Which hospital is he in ?
+2) Which hotel did you stay at?
+3) Which team does Jack play for?
+4) Which school did you go to?
+
+46.4
+1) What are the roads like?
+2) What is the food like?
+3) What are the people like?
+4) What is the weather like?
+
+46.5
+1) What was the weather like?
+2) What was the film like?
+3) What were the lessons like ?
+4) What was the hotel like?
