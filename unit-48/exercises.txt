@@ -1,0 +1,27 @@
+48.1
+1) How long does it take by plane from London to Amsterdam?
+2) How long does it take by car from Milan to Rome?
+3) How long does it take by train from Paris to Geneva?
+4) How long does it take by bus from city centr to airport?
+
+48.2
+1) It takes two hours to fly from Madrid to London
+2) It takes 10 hours to fly from my city to New York
+3) It takes seven years to study to be a doctor in my contry
+4) It takes ten minutes to walk from my home to the nearst shop
+5) It takes one hour to get from my home to the nearst airport
+
+48.3
+1) How long did it take her to find a job?
+2) How long did it take you to walk to the station
+3) How long did it take him to paint the bathroom?
+4) How long did it take you to learn to ski?
+5) How long did it take them to repair the car?
+
+48.4
+1) It took me three days to read the book
+2) It took us 20 minutes to walk home
+3) It took me six months to pass my driving test
+4) It took him 3 hours to get to London
+5) It took her a long time to get a job
+6) It took me 2 hours to get up morning
