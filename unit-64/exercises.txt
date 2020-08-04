@@ -1,0 +1,36 @@
+64.1
+1) Brain is Helen's husband
+2) Sarah is Daniel's mother
+3) Helen is Brain's wife
+4) James is Sarah's brother
+5) James is Daniel's uncle
+6) Sarah is Paul's wife 
+7) Helen is Daniel's grandmother
+8) Sarah is James's sister
+9) Paul is Sarah's husband
+10) Paul is Daniel's father
+11) Daniel is James's nephew
+
+64.2
+1) Alice's
+2) Andy's 
+3) Dave's 
+4) Jane's 
+5) Rachel's 
+6) Alice's 
+
+64.3
+1) my sister's house
+2) OK 
+3) OK
+4) the Simon's number 
+5) The my brother's job 
+6) OK 
+7) OK 
+8) The Paula's favorite colour 
+9) the your mother's birthday
+10) The parents' house
+11) OK
+12) OK 
+13) the Silvia's party 
+14) OK

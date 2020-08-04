@@ -1,0 +1,48 @@
+59.1
+1) I don't know these girls. Do you know them?
+2) I don't know that man. Do you know him?
+3) I don't know those people. Do you know them?
+4) I don't know David's wife. Do you know her?
+5) I don't know Mr Stevens. Do you know him?
+6) I don't know Sarah's parents. Do you know them?
+7) I don't know the woman in the black coat. Do you know her?
+
+59.2
+1) I want to see her, but she doesn't want to see me 
+2) They want to see me, but i don't want to see them 
+3) She wants to see him, but he doesn't want to see her 
+4) We want to see them, but they don't want to see us 
+5) He wants to see us, but we don't want to see him 
+6) They want to see her, but she doesn't want to see them 
+7) I want to see them, but they don't want to see me
+8) You want to see her, but she doesn't want to see you 
+
+59.3
+1) I don't eat tomatoes. I don't like them
+2) George is very nice man. I like him 
+3) This jacket isn't very nice. I don't like it 
+4) This is my new car. Do you like it?
+5) Mrs Clark is not very friendly. I don't like her 
+6) These are my new shoes. Do you like them?
+
+59.4
+1) Who is that woman? Why are you looking at her?
+2) Do you know that man? Yes, i work with him 
+3) Where are the tickets. I can't find them 
+4) I can't find my keys. Where are they?
+5) We're going out. You can come with us 
+6) I've got a new motorbike. Do you want to see it?
+7) Maria likes music. She plays the piano
+8) I don't like dogs. I'm afraid of them 
+9) I'm talking to you. Please listen to me 
+10) Where is Anna? I want to talk to her 
+11) You can have these CDs. I don't want them 
+12) My brother has a new job, but he doesn't like it very much
+
+59.5
+1) I need that book. Can you give it to me?
+2) He wants the key. Can you give it to him?
+3) She wants the kyes. Can you give them to her?
+4) I need my bag. Can you give it to me?
+5) They want the money. Can you give it to them?
+6) We want the pictures. Can you give them to us?

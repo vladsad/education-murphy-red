@@ -1,0 +1,33 @@
+62.1
+1) Yes, i know him, but i can't remember his name 
+2) Yes, i know her, but i can't remember her name
+3) Yes, i know them, but i can't remember their names
+4) Yes, i know you, but i can't remember your name 
+
+62.2
+1) We invited her to stay with us at our house 
+2) He invited us to stay with him at his house 
+3) They invited me to stay with them at their house
+4) I invited them to stay with me at my house
+5) She invited us to stay with her at her house
+6) Did you invited him to stay with you at your house?
+
+62.3
+1) I gave him my phone number, and he gave me his 
+2) I gave her my phone number, and she gave me hers 
+3) He gave me his phone number, and i have him mine
+4) We gave them our phone number, and they gave us theirs
+5) She gave him her number, and he gave her his 
+6) You gave us your number, and we gave you ours
+7) They gave you their number, and you gave them yours 
+
+62.4
+1) Where's Amanda? Have you seen her?
+2) Where are my keys? Where did I put them?
+3) This book belongs to Ben. Can you give it to him?
+4) We don't see our neighbours much. They're not at home very often
+5) I can't find my phone. Can i use yours? Yes, of course
+6) We're going to the cinema. Why don't you come with us?
+7) Did you sister pass her exams?
+8) Some people talk about their work all the time 
+9) Last night I went out for a meal with a friend of mine
