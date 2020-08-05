@@ -1,0 +1,42 @@
+65.1
+1) an old book
+2) a window
+3) a horse
+4) an airport
+5) a new airport
+6) an organisation
+7) a university
+8) an hour
+9) an economic problem
+
+65.2
+1) A duck is a bird
+2) A carrot is a vegetable
+3) Tennis is a game 
+4) A hammer is a tool
+5) Everest is a mountain
+6) Saturn is a planet
+7) A banana is a fruit
+8) The Amazon is a river
+9) A rose is a flower
+10) A trumpet is a musical instrument
+
+65.3
+1) She's a dentist
+2) He's a shop assistant
+3) She's an architect
+4) He's a taxi driver
+5) He's an electrican
+6) She's a photographer
+7) She's a nurse
+8) I'm a programmer
+
+65.4
+1) I want to ask you a question
+2) Tom never wears a hat
+3) I can't ride a bike
+4) My brother is an artist
+5) Rebecca works in a bookshoop
+6) Jane wants to learn a forein language
+7) Mike lives in an old house
+8) This evening I'm going to a party

@@ -1,0 +1,42 @@
+67.1
+1) It's salt 
+2) It's a spoon 
+3) It's a jug
+4) It's water 
+5) It's toothpaste 
+6) It's a toothbrush
+7) It's an egg 
+8) It's money 
+9) It's a wallet
+10) It's sand 
+11) It's a bucket 
+12) It's a envelope
+
+67.2
+1) I don't have a watch 
+2) Do you like cheese? - ok 
+3) I never wear a hat 
+4) Are you looking for a job ?
+5) Kate doesn't eat meat - ok 
+6) Kate eats an apple every day 
+7) I'm going to a party tonight
+8) Music is a wonderful thing 
+9) Jamaica is an island
+10) I don't need a key
+11) Everybody needs food - ok 
+12) I've got a good idea 
+13) Can you drive a car?
+14) Do you want a cup of tea? 
+15) I don't like coffee without milk - ok 
+16) Don't go out without an umbrella 
+
+67.3
+1) a carton of milk 
+2) a piece of wood
+3) a glass of water 
+4) a bar of chocolate
+5) a cup of tea
+6) a piece of paper
+7) a bowl of soup
+8) a loaf of bread
+9) a jar of honey
