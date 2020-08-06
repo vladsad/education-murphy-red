@@ -1,0 +1,21 @@
+73.2
+1) Kevin lives in Newton Street - ok 
+2) We went to see a play at the National Theatre
+3) Have you ever been to China? - ok 
+4) Have you ever been to the Phillppines?
+5) Have you ever been to the south of France? 
+6) Can you tell me where the Regal cinema is?
+7) Can you tell me where Merrion Street is? - ok 
+8) Can you tell me where the Meusem of Art is?
+9) Europe is bigger than Australia - ok 
+10) Belgium is smaller than the Netherlands 
+11) Which river is longer - The Missisippi or the Nile?
+12) Did you go to the National Gallery when you were in Lodnon?
+13) We stayed at The Park Hotel in Hudson Road 
+14) How far is it from Trafaglar Square to Victoria Station? - ok 
+15) The Rocky Mountains are in North America 
+16) Texas is famous for oil and cowboys - ok 
+17) I hope to go to The United STated next year 
+18) MAry comes from the west of Ireland 
+19) Alan is a student at Manchester University - ok
+20) The Panama Canal joins the Atlantic Ocean and the Pacific Ocean
