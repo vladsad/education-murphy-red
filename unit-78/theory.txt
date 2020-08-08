@@ -1,0 +1,29 @@
+not + anybody/anyone
+nobody/no-one
+(for people)
+
+-body and -one are the same:
+    anybody = anyone  nobody = no-one
+
+not + anything
+nothing
+(for things)
+
+not + anybody/anyone
+
+nobody = not + anybody 
+no-one = not + anyone 
+
+not + anything
+
+nothing = not + anything
+
+You can use nobody/no-one/nothing at the beginning of a sentence or alone (to answer a question):
+    The house is empty. Nobody lives there
+    Who did you speak to? No-one 
+    Nothing happened
+    What did you say? Nothing
+
+Remember: 
+    negative verb + anybody/anyone/anything
+    positive verb + nobody/no-one/nothing 
