@@ -1,0 +1,36 @@
+74.1
+1) Do you like these shoes?
+2) Who live in that house?
+3) How much are these postcards?
+4) Look at those birds
+5) Excuse me, is this seat free?
+6) These plates are dirty
+
+74.2
+1) Is this your bag?
+2) Is that your umbrella?
+3) Is this your book?
+4) Are those your books?
+5) Is that your bike?
+6) Are these your keys?
+7) Are those your kyes?
+8) Is this your watch?
+9) Are those your glasses?
+10) Are these your gloves?
+
+74.3
+1) I'm sorry , i'm late. That's all right
+2) I can't come to the party tomorrow
+   Oh,that's a pity. Why not?
+3) Hello, Jane. This is Sue
+   Oh, hi Sue. How are you?
+4) You're lazy
+   That's not true
+5) Beth plays the piano very well
+   Does she? I didn't know that
+6) Mark, this is my sister Helen
+   Hi Helen
+7) I'm sorry i was angry yesterday
+   Yes, that's right
+8) You're friend of Tom's aren't you?
+   Yes, that's right

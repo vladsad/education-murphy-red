@@ -1,0 +1,37 @@
+one (= a ..)
+
+Would you like a chocolate? = Would you like one?  (one = a/an..)
+
+one(singular)
+    Which one do you want? This one
+    which one = which hat
+ones(plural)
+    Which ones do you want? The white ones
+    which ones = which flowers
+
+this one / that one
+    Which car is yours? This one or that one? (= this car or that car)
+the one ...
+    A: Which hotel did you stay at?
+    B: The one opposite the station.
+    I found this key. Is it the one you lost?
+the ... one
+    I don’t like the black coat, but I like the brown one.
+    Don’t buy that camera. Buy the other one.
+a/an ... one
+    This cup is dirty. Can I have a clean one?
+    That biscuit was nice. I’m going to have another one.
+
+these/those or these ones/those ones
+    Which flowers do you want? These or those? or
+    These ones or those ones?
+the ones ...
+    A: Which books are yours?
+    B: The ones on the table.
+    I found these keys. Are they the ones you lost?
+the ... ones
+    I don’t like the red shoes, but I like the green ones.
+    Don’t buy those apples. Buy the other ones.
+some .. ones
+    These cups are dirty. Can we have some clean ones?
+    My shoes are very old. I'm going to buy some new ones

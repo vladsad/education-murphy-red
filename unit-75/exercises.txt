@@ -1,0 +1,47 @@
+75.1
+1) Can you lend me a pen? I'm sorry, I don't have one
+2) Would you like to have a car? No, I don't need one
+3) Do you have a bike? Not, but i'm going to get one
+4) Can you lend me an umbrella? I'm sorry, but i don't have one
+5) Would you like a cup of coffee? No thank you. I have just had one
+6) Is there a chemist near here? Yes, there's on in Mill Road
+
+75.2
+1) This cup is dirty. Can i have a clean one
+2) I'm going to sell my car and buy a new one
+3) That's not a very good photo, but this is a better one
+4) I want today's newspaper. This is an old one
+5) This box is too small. I need a big one
+6) Why do we always go to the same restaurant. Let's go to a different one
+
+75.3
+1)  We stayed at hotel.
+    Which one?
+    The one opposite the station
+2)  I like those shoes?
+    Which ones?
+    The green ones
+3)  That's a nice house
+    Which one?
+    The one with the red door
+4)  Are those your CDs?
+    Which ones?
+    The ones on the top of shelf
+5)  Do you like your jacket?
+    Which one?
+    The black one
+6)  That's an interesting picture
+    Which one?
+    The one on the wall
+7)  Do you know that girl?
+    Which one?
+    The tall one  with long hair
+8)  Those flowers are beautiful
+    Which ones?
+    The yellow ones
+9)  Who's that man?
+    Which one?
+    The one with the moustache and glasses
+10) Did i show you my photos?
+    Which ones?
+    The ones I took th the party last week
