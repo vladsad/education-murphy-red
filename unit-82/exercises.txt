@@ -1,0 +1,35 @@
+82.1
+1) Last year I went to Paris and Rome. I liked both cities very much
+2) There were two pictures on the wall. I didn't like either of them 
+3) It was a good football match. Both teams played well 
+4) It wasn't a good football match. Neither team played well 
+5) Is your friend English or American? Neither. She's Australian
+6) We went away for two days, but the weather wasn't good. It rained both days 
+7) I bought two newspapers. Which one do you want?
+   Either. It doesn't matter which one 
+8) I invited Sam and Chris to the party, but neither of them came
+9) Do you go to work by car or bus? Neither. I always walk 
+10) Which jacket do you prefer, this one or that one? I don't like either of them 
+11) Do you work or are you a student? Both. I work and i'm a student too 
+12) My friend and I went to the cinema, but neither of us like the film. It was really bad 
+13) Helen has two sisters and a brother. Both sisters are married
+14) Helen has two sisters and a brother. I've met her brother, but i haven't met either of her sisters
+
+82.2
+1) Both cups are empty
+2) Both windows are open
+3) Neither man is wearing a hat
+4) Both men have beards
+5) Both buses are going to the airport
+6) Neither answer is correct
+
+82.3
+1) Neither of them is married
+2) Both of them are 21
+3) Both of them are students
+4) Neither of them has a car 
+5) Both of them live in London
+6) Both of them like cooking
+7) Neither of them can play the piano
+8) Both of them eat seafood
+9) Neither of them is interested in sport
