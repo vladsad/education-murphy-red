@@ -1,0 +1,31 @@
+89.1
+1) A is bigger than C, but not as big as B 
+2) A is longer than B, but not as long as C 
+3) C is heavier than A, but not as heavy as B 
+4) A is older then C, but not as old as b 
+5) B has got more money than C, but not as much as A 
+6) C works harder than A, but not as hard as B 
+
+89.2
+1) Rome isn't as old as Athens
+2) Your room isn't as big as mine
+3) I didn't get up as early as you 
+4) They don't play as well as us
+5) You haven't been here as long as i have 
+6) He isn't as nervous as she is
+
+89.3
+1) Athens is older than Rome 
+2) I don't watch TV as much as you 
+3) You eat more than me 
+4) I'm more tired today than I was yesterday 
+5) Joe isn't as intelligent as he thinks
+6) Belgium is smaller than Switzerland
+7) Brazil isn't as big as Canada 
+8) I can't wait longer than an hour 
+
+89.4
+1) Andy is the same ag as Luara
+2) Julia lives at the same street as Laura 
+3) Julia got up at the same time as Andy
+4) Andy's car is the same colour as Laura's

@@ -1,0 +1,34 @@
+88.1
+1) Kate is older than Ben
+2) Ben i a better swimmer than Kate
+3) Kate is taller than Ben 
+4) Kate starts work earlier than Ben 
+5) Ben works harder than Kate 
+6) Ben has more money than Kate
+7) Kate is a better driver than Ben 
+8) Ben is more patient than Kate 
+9) Ben isn't better dancer than Kate 
+10) Kate is more intelligent than Ben 
+11) Kate speaks French better than Ben 
+12) Ben goes to the cinema more than Kate 
+
+88.2
+1) He isn't very tall. You are taller than him 
+2) She isn't very old. You are older than her
+3) I don't work very hard. You work harder than i do 
+4) He doesn't watch TV very much. You watch TV more than him 
+5) You are better cook than me 
+6) You know more people than us 
+7) You have more money than them 
+8) You can run faster than me 
+9) You have been longer than her 
+10) You got up earlier than them
+11) You was suprised more than him 
+
+88.3
+1) Emma is a bit older than Joe 
+2) Jack's mother is a bit yonger than Jack's father
+3) My camera cost a bit more expensive than yours
+4) I feel much better today than yesterday
+5) It's a bit warmer today than yesterday
+6) Sarah is a much more excellent player than me
